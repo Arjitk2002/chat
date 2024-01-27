@@ -1,0 +1,6 @@
+syntax -> module.exports = {};
+
+regex provides regular expression capabilities  for pattern matching strings in queries.
+regex options=i means case sensitive!!!!
+
+
